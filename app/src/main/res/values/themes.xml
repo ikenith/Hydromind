@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.HydroMind" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/accent_blue</item>
-        <item name="colorPrimaryVariant">@color/accent_blue</item>
-        <item name="colorOnPrimary">@color/background_dark</item>
-        <item name="android:windowBackground">@color/background_dark</item>
-        <item name="colorSurface">@color/surface_dark</item>
-        <item name="android:textColorPrimary">@color/text_primary</item>
-        <item name="android:textColorSecondary">@color/text_secondary</item>
+    <style name="Theme.Hydromind" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#4fc3f7</item>
+        <item name="colorPrimaryVariant">#0288d1</item>
+        <item name="colorOnPrimary">#0f0f1a</item>
+        <item name="android:windowBackground">#0f0f1a</item>
     </style>
 </resources>
